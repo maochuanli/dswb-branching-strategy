@@ -1,1 +1,1 @@
-name="DEV Name"
+name="DEVName"
