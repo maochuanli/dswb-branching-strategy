@@ -1,1 +1,1 @@
-name = "stage"
+name = "stage.name"
